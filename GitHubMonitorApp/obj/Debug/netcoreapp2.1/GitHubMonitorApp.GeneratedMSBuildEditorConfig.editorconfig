@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GitHubMonitorApp
+build_property.ProjectDir = D:\Code\Azure Project\GitHubMonitorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
